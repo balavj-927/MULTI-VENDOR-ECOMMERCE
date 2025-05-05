@@ -30,7 +30,7 @@ Traditional delivery systems suffer from static addresses, miscommunication, and
 ## 🔒 Key Features
 
 - 📍 **Real-Time Location Input** using Google Maps Geolocation API
-- 🧑‍💼 **Role-Based Access**: Admin, Seller, Delivery Agent, Customer
+- 🧑‍💼 **Role-Based Access**: Admin, Seller and Customer
 - 📦 **Order Management**: Real-time order placement, tracking, and history
 - 💬 **Live Chat Module**: Real-time communication between stakeholders
 - 💳 **Secure Payments**: Integrated Razorpay & Stripe gateways
